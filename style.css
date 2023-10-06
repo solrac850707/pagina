@@ -1,0 +1,160 @@
+
+* {
+  margin: 0;
+  box-sizing: border-box;  
+  text-decoration: none;  
+  list-style-type: none;
+  text-decoration: none;
+  
+
+}
+.margen_interna{
+  border: solid blue 5px;
+    padding: 1%;
+    margin:2%;
+    border-radius: 15px;
+}
+
+      #body{
+        font-family: Arial, Helvetica, sans-serif}
+
+      #titulo-principal{
+        text-align: center;
+        background-color: black;
+        color: white;
+        border: solid red;
+        border-radius: 15px;
+        width: 90%;
+        height: 80%;
+        margin:0px auto;
+        font-size: 30px;
+       }
+
+      #margen_interna{
+        
+        border: solid blue 5px;
+        padding: 10%;
+        margin:2%;
+        border-radius: 10px;
+      }
+
+      #presentacion{
+        background-image: url(https://assets.digitalocean.com/labs/images/community_bg.png);
+        border: solid greenyellow;
+        border-radius: 15px;
+        text-align: center;
+        color: white;
+        
+      }  
+      
+      #enlace{
+        background-color: greenyellow;
+        text-align: center;
+        border-radius: 15px;
+        display: inline-block;
+        width: 100%;
+        margin-right: 80px;
+        line-height: 20px;
+      }
+       li {
+        display: inline-block;
+        
+       }
+       a {
+        color: black;
+        text-decoration: none;
+        padding: 5px;
+    }
+    #enlace2{
+      background-color: blue;
+      text-align: center;
+      border-radius: 15px;
+      display: inline-block;
+      width: 100%;
+      height: ;
+      margin-right: 80px;
+      line-height: 20px;
+    }
+     li {
+      display: inline-block;
+      
+     }
+     #enlace3{
+      background-color: white;
+      border: solid greenyellow;
+      text-align: center;
+      border-radius: 15px;
+      display: inline-block;
+      width: 100%;
+      margin-right: 80px;
+      line-height: 20px;
+    }
+     li {
+      display: inline-block;
+      
+     }
+     a {
+      color: black;
+      text-decoration: none;
+      padding: 5px;
+  }
+     a {
+      color: black;
+      text-decoration: none;
+      padding: 5px;
+  }
+    
+    nav a:hover{
+        color:bisque;
+    }
+    #block{
+        display: flex;
+        justify-content: center;
+        color: rgb(236, 23, 59);
+        width: 96%;
+        font-size: 15px;
+        border: solid blue 5px;
+        padding: %;
+        margin:2%;
+        border-radius: 30px;
+        
+
+    }
+  
+      .cuerpo2{
+        display:flex;
+        flex-direction: ;
+        justify-content: center;
+        color: rgb(236, 23, 59);
+        width: 120px;
+        height: 120px;
+        border: solid blue 5px;
+        padding: 22px;
+        margin:2%;
+        border-radius: 180px;
+       
+        
+      }
+      .footer-imagen{
+        background-image:url(https://softalike.com/imagenes/TOP-10-software-de-programacion.jpeg);
+        width: 100%;
+        height: auto;
+        background-size: cover  ;
+        background-position: center top;
+
+      }
+      .footer-text{
+        color: black;
+        text-align:block;
+        font-size: 15px;
+        width: 200vh;
+        height: 500px;  
+
+      }
+     
+        
+      
+
+
+
+  
